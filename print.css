@@ -1,0 +1,10 @@
+*{color:black;
+background:transparent;
+font-size:Npt;
+font-family: serif;}
+
+@page {margin: 1in}
+
+a { text-decoration: none; }
+
+.nav { display: none;}

@@ -1,0 +1,87 @@
+/*stylesheet*/
+#container{
+    background:rgb(214,214,214);
+    border: 1px solid grey;
+    margin:0 auto;
+    width:960px;
+    padding:0 10px;
+    font-family: "Delius", serif;}
+#wrap {
+    float: left;
+    position: relative;
+    left: 50%;
+    }
+
+#content {
+    float: left;
+    position: relative;
+    left: -50%;
+    }
+
+
+body {
+background-color: rgb(82,139,122); /* green */
+font-family: "Delius",
+font-size: 12px;
+color: rgb(38,59,74);
+padding-bottom: 10px;}
+
+h1 {
+  font-family: "Delius Swash Caps", serif;
+  font-weight: 600;
+  font-size: 250%;
+  margin-bottom: 10px;
+  text-align: center;
+  }
+
+address {
+  border-top: 1px solid grey;
+  font-size: small;
+  color:rgb(82,139,122); /* green */}
+  margin-bottom: 5px
+  float: center;
+
+section {
+  font-family: "Delius", serif;}
+
+a,
+a:visited {
+color: rgb(214,104,35); /*orange */
+}
+a:hover{
+color: rgb(82,139,122); /* green */
+font-family: "Delius", serif;
+}
+
+p.big {
+    line-height: 200%;
+}
+
+blockquote {
+  color: rgb(38,59,74);
+  text-align: center;
+  font-size:medium;
+  font-family: "Delius", serif;
+   }
+
+address {
+  text-align: center;
+  font-family: "Delius", serif;}
+
+.navy {
+  color: rgb(38,59,74);}
+
+.green {
+  color: rgb(82,139,122);}
+
+footer {
+    font-size: 10px;}
+
+
+nav li {
+  text-align: center;
+  margin: 2px ;
+  display: inline;
+  border-right: solid rgb(38,59,74);
+  padding: 4px;
+  cursor: auto;
